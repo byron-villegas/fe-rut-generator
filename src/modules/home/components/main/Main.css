@@ -1,0 +1,11 @@
+td:hover {
+  background-color: #343a40 !important;
+}
+
+td.active {
+  background-color: #343a40 !important;
+}
+
+tbody {
+  cursor: pointer !important;
+}
