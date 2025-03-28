@@ -1,6 +1,11 @@
 {
-  "short_name": "Generador RUTs",
   "name": "Generador de RUTs",
+  "short_name": "Generador RUTs",
+  "description": "Aplicacion para generar RUTs validos de Chile",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a1d20",
+  "background_color": "#1a1d20",
   "icons": [
     {
       "src": "favicon.png",
@@ -18,8 +23,5 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#1a1d20",
-  "background_color": "#1a1d20"
+  "lang": "es"
 }
