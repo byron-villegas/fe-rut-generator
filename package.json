@@ -1,7 +1,30 @@
 {
   "name": "fe-rut-generator",
+  "description": "App to generate random Chilean RUTs",
   "version": "1.0.0",
   "private": true,
+  "author": {
+    "name": "Byron Villegas",
+    "email": "byronvillegasm@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "React",
+    "JavaScript",
+    "Cards",
+    "Collection"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byron-villegas/fe-rut-generator"
+  },
+  "bugs": {
+    "url": "https://github.com/byron-villegas/fe-rut-generator/issues"
+  },
+  "homepage": "https://github.com/byron-villegas/fe-rut-generator",
+  "engines": {
+    "node": ">=vv21.7.3"
+  },
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

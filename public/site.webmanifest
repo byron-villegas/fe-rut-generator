@@ -1,0 +1,39 @@
+{
+  "name": "RUTs Generator",
+  "short_name": "RUTs Generator",
+  "description": "App to generate random Chilean RUTs",
+  "author": "Byron Villegas Moya",
+  "developer": {
+    "name": "Byron Villegas Moya",
+    "email": "byronvillegasm@gmail.com",
+    "url": "https://www.linkedin.com/in/byron-villegas-moya"
+  },
+  "categories": [
+    "RUTs",
+    "Generator"
+  ],
+  "id": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "theme_color": "#1a1d20",
+  "background_color": "#1a1d20",
+  "default_locale": "es",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
