@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/byron-villegas/fe-rut-generator",
   "engines": {
-    "node": ">=vv21.7.3"
+    "node": ">=v21.7.3"
   },
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
