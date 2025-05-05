@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/byron-villegas/fe-rut-generator/issues"
   },
-  "homepage": "https://github.com/byron-villegas/fe-rut-generator",
+  "homepage": "/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
